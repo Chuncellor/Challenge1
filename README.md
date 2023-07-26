@@ -11,3 +11,21 @@ Screenshots
 <img width="1776" alt="Screenshot 2023-07-26 at 4 16 30 PM" src="https://github.com/Chuncellor/Challenge1/assets/139515369/1504b14f-7123-4ba8-99a5-cc7c0bc1456b">
 
 <img width="1776" alt="Screenshot 2023-07-26 at 4 17 21 PM" src="https://github.com/Chuncellor/Challenge1/assets/139515369/a5e31e77-a195-4e1f-9035-504a62db1f39">
+
+Link to Website
+
+https://chuncellor.github.io/Challenge1/
+
+
+Credit
+
+Source/Starter code:
+Xandromus Xander Rapstine
+Georgeyoo George
+https://github.com/coding-boot-camp/urban-octo-telegram
+
+Other sources:
+https://web.dev/learn/html/semantic-html/
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+https://www.smashingmagazine.com/2013/08/semantic-css-with-intelligent-selectors/
+https://www.w3schools.com/cssref/css3_pr_mediaquery.php
